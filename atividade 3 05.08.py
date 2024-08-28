@@ -54,7 +54,7 @@ x.calcular_imposto()
 x.info()
 
 
-y = veiculo.moto("Kawasaki", "Ninja 650", 2024, 49530.00)
+y = veiculo.moto("Kawasaki", "Ninja 650", 2024, 49500.00)
 
 y.calcular_imposto()
 y.info()
